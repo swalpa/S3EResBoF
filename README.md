@@ -1,4 +1,4 @@
-# Efficient Spectral-Spatial Squeeze and Excitation Residual Bag-of-Features Learning for Hyperspectral Image Classification.
+# Efficient Spectral-Spatial Squeeze and Excitation Residual Bag-of-Features Learning for Hyperspectral Imagery.
 
 ## Description
 
@@ -47,12 +47,12 @@ Fig.5  The confusion matrices for the datasets. (a) Indian Pines. (b) University
 
 If you use this code in your research, we would appreciate a citation to the original [paper]:
 
-	@article{roy2019bilinearnet,
-            title={Spectral-Spatial Bilinear 3D and 2D CNN Feature Fusion for Hyperspectral Image Classification},
-            author={Roy, Swalpa Kumar and Das, Arijit and Dubey, Shiv Ram and Datta, Shounak and Chaudhuri, Bidyut B},
-            journal={},
-            year={2019}
-            }
+    @article{roy2019bilinearnet,
+     title={Efficient Spectral-Spatial Squeeze and Excitation Residual Bag-of-Features Learning for Hyperspectral Imagery},
+     author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Dubey,  and Chaudhuri, Bidyut B.},
+     journal={},
+     year={2019}
+     }
 
 
 ## Acknowledgement
