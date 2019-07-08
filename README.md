@@ -1,4 +1,4 @@
-# The 2D and 3D CNN based BilinearNet for Hyperspectral Image Classification.
+# Efficient Spectral-Spatial Squeeze and Excitation ResidualBag-of-Features Learning for Hyperspectral Image Classification.
 
 ## Description
 
@@ -8,7 +8,7 @@ The BilinearNet comprises 3D and 2D fused CNN model for HSI classification. The 
 
 <img src="figure/S3EResBoF.jpg"/>
 
-Fig.1 Proposed BilinearNet Model with 3D and 2D convolutions for hyperspectral image (HSI) classification.
+Fig.1 The spectral-spatial squeeze-and-excitation residual Bag-of-feature~($S3EResBoF$) learning for HSI classification framework. The first step is sample extraction, where $S\times{S}\times{B}$ sized sample is extracted from a neighborhood window  centered around the target pixel.  Once  samples are  extracted  from  raw  HSI,  they are put through the $S3EResBoF$ to extract deep spectral-spatial features for calculate of classification scores..
 
 ## Prerequisites
 
