@@ -2,13 +2,13 @@
 
 ## Description
 
-The BilinearNet comprises 3D and 2D fused CNN model for HSI classification. The 3D CNN extracts the joint spatial-spectral features, whereas the 2D-CNN extracts the original spatial features. Both 3D and 2D CNNs are trained simultaneously in a bilinear training fashion. The final features of both networks are fused using a multilayer perceptron which is also trained jointly. The BilinearNet model is completely end-to-end trainable. 
+We designed an end-to-end spectral-spatial squeeze-and-excitation (SE) residual bag-of-feature learning (S3EResBoF) framework for HSI classification that takes input as raw 3D image cubes without engineering. Which can build a feature codebook representation by motivating feature maps that help classification and suppress feature maps that don't help based on the patterns of feature maps. To alleviates the classification performance and learn the joint spatial-spectral features every residual blocks connect to every other 3D convolutional layer through a identity mapping function followed by a SE block and which facilitates the backpropagation of gradients. Additionally we introduce batch normalization on every convolutional layer (ConvBN) to regularize the convergence of the network and bag-of-feature quatization for classification. The experiments are conducted using five well-known HSI data sets and compared with state-of-the-art classification methods, reveal that S3EResBoF provide competitive performance in terms of both classification and computation time.
 
 ## Model
 
 <img src="figure/S3EResBoF.jpg"/>
 
-Fig.1 The spectral-spatial squeeze-and-excitation residual Bag-of-feature~($S3EResBoF$) learning for HSI classification framework. The first step is sample extraction, where $S\times{S}\times{B}$ sized sample is extracted from a neighborhood window  centered around the target pixel.  Once  samples are  extracted  from  raw  HSI,  they are put through the $S3EResBoF$ to extract deep spectral-spatial features for calculate of classification scores..
+Fig.1 The spectral-spatial squeeze-and-excitation residual Bag-of-feature (S3EResBoF) learning for HSI classification framework. The first step is sample extraction, where $SxSxB$ sized sample is extracted from a neighborhood window  centered around the target pixel. Once samples are extracted  from  raw  HSI, they are put through the $S3EResBoF$ to extract deep spectral-spatial features for calculate of classification scores.
 
 ## Prerequisites
 
