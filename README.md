@@ -1,4 +1,4 @@
-# Efficient Spectral-Spatial Squeeze and Excitation ResidualBag-of-Features Learning for Hyperspectral Image Classification.
+# Efficient Spectral-Spatial Squeeze and Excitation Residual Bag-of-Features Learning for Hyperspectral Image Classification.
 
 ## Description
 
