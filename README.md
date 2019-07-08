@@ -49,7 +49,7 @@ If you use this code in your research, we would appreciate a citation to the ori
 
     @article{roy2019bilinearnet,
      title={Efficient Spectral-Spatial Squeeze and Excitation Residual Bag-of-Features Learning for Hyperspectral Imagery},
-     author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Dubey,  and Chaudhuri, Bidyut B.},
+     author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Chaudhuri, Bidyut B.},
      journal={},
      year={2019}
      }
