@@ -1,4 +1,4 @@
-# Efficient Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral Imagery.
+# Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral Classification.
 
 ## Description
 
@@ -47,10 +47,10 @@ Fig.5  The confusion matrices for the datasets. (a) Indian Pines. (b) University
 
 If you use this code in your research, we would appreciate a citation to the original [paper]:
 
-    @article{roy2019bilinearnet,
-     title={Efficient Spectral-Spatial Squeeze and Excitation Residual Bag-of-Features Learning for Hyperspectral Imagery},
-     author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Chaudhuri, Bidyut B.},
-     journal={},
+    @article{roy2019lightweight,
+     title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral               Classification},
+     author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Bhattacharyya, Siddhartha and Chaudhuri, Bidyut B. and Platosˇ, Jan},
+     journal={IEEE Transactions on Geoscience and Remote Sensing},
      year={2019}
      }
 
