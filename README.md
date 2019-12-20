@@ -42,7 +42,7 @@ Fig.4  The SS dataset classification result (Overall Accuracy 100%) of BilinearN
 Fig.5  The confusion matrices for the datasets. (a) Indian Pines. (b) University of Pavia. (c) Salinas Scene. 
 
 ### t-SNE Visualizations
-<img src="figure/tsne-IP.jpg" width="280" height="280"/><img src="figure/tsne-UP.jpg" width="280" height="280"/><img src="figure/tsne-SA.jpg" width="280" height="280"/> 
+<img src="figure/tsne_IP.jpg" width="280" height="280"/><img src="figure/tsne_UP.jpg" width="280" height="280"/><img src="figure/tsne_SA.jpg" width="280" height="280"/> 
 
 Fig.5  The t-SNE Visualizations for the datasets. (a) Indian Pines. (b) University of Pavia. (c) Salinas Scene.
 
