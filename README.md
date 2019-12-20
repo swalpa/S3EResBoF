@@ -6,7 +6,7 @@ We designed an end-to-end spectral-spatial squeeze-and-excitation (SE) residual 
 
 ## Model
 
-<img src="figure/S3EResBoF.jpg" width="500" height="400"/>
+<img src="figure/S3EResBoF.jpg" width="800" height="500"/>
 
 Fig.1 The spectral-spatial squeeze-and-excitation residual Bag-of-feature (S3EResBoF) learning for HSI classification framework. The first step is sample extraction, where SxSxB sized sample is extracted from a neighborhood window  centered around the target pixel. Once samples are extracted  from  raw  HSI, they are put through the S3EResBoF to extract deep spectral-spatial features for calculate of classification scores.
 
@@ -57,7 +57,7 @@ If you use this code in your research, we would appreciate a citation to the ori
 
 ## Acknowledgement
 
-Part of this code is from a implementation of Classification of HSI using CNN by [Konstantinos Fokeas](https://github.com/KonstantinosF/Classification-of-Hyperspectral-Image).
+Part of this code is from a implementation of Classification of HSI using CNN by [Konstantinos Fokeas](https://github.com/KonstantinosF/Classification-of-Hyperspectral-Image) and [Gopal Krishna](https://github.com/gokriznastic/HybridSN).
 
 ## License
 
