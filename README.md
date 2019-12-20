@@ -6,7 +6,7 @@ We designed an end-to-end spectral-spatial squeeze-and-excitation (SE) residual 
 
 ## Model
 
-<img src="figure/S3EResBoF.jpg" width="800" height="500"/>
+<img src="figure/S3EResBoF.jpg" width="800" height="300"/>
 
 Fig.1 The spectral-spatial squeeze-and-excitation residual Bag-of-feature (S3EResBoF) learning for HSI classification framework. The first step is sample extraction, where SxSxB sized sample is extracted from a neighborhood window  centered around the target pixel. Once samples are extracted  from  raw  HSI, they are put through the S3EResBoF to extract deep spectral-spatial features for calculate of classification scores.
 
@@ -42,6 +42,9 @@ Fig.4  The SS dataset classification result (Overall Accuracy 100%) of BilinearN
 Fig.5  The confusion matrices for the datasets. (a) Indian Pines. (b) University of Pavia. (c) Salinas Scene. 
 
 ### t-SNE Visualizations
+<img src="figure/tsne-IP.jpg" width="280" height="280"/><img src="figure/tsne-UP.jpg" width="280" height="280"/><img src="figure/tsne-SA.jpg" width="280" height="280"/> 
+
+Fig.5  The t-SNE Visualizations for the datasets. (a) Indian Pines. (b) University of Pavia. (c) Salinas Scene.
 
 ## Citation
 
