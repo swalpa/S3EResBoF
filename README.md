@@ -50,7 +50,7 @@ Fig.5  The t-SNE Visualizations for the datasets. (a) Indian Pines. (b) Universi
 
 If you use this code in your research, we would appreciate a citation to the original [paper]:
 
-    @article{roy2019lightweight,
+    @article{roy2020lightweight,
      title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral               Classification},
      author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Bhattacharyya, Siddhartha and Chaudhuri, Bidyut B. and Platosˇ, Jan},
      journal={IEEE Transactions on Geoscience and Remote Sensing},
