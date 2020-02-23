@@ -59,7 +59,7 @@ If you use this code in your research, we would appreciate a citation to the ori
      
 ## Code Issues
 
-<strong><span class="color-blue">[23/02/2020]</span><sup><img style="display:inline"
+<strong><span class="color-blue"></span><sup><img style="display:inline"
                       src="https://josaa.nic.in/webinfocms/Images/newicon.gif" alt="" /></sup> <span class="newNews"> Please Contact <a href="mailto:subhrasankar.chatterjee000@gmail.com" target="_blank" rel="noopener">Subhrasankar Chatterjee</a> to fix the issues .
 
 ## Acknowledgement
