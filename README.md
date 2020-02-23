@@ -59,7 +59,8 @@ If you use this code in your research, we would appreciate a citation to the ori
      
 ## Code Issues
 
-Please <a href="mailto:subhrasankar.chatterjee000@gmail.com" target="_blank" rel="noopener">Contact Subhrasankar Chatterjee</a> to fix the issues .
+<strong><span class="color-blue">[12/12/2019]</span><sup><img style="display:inline"
+                      src="https://josaa.nic.in/webinfocms/Images/newicon.gif" alt="" /></sup> <span class="newNews"> Please Contact <a href="mailto:subhrasankar.chatterjee000@gmail.com" target="_blank" rel="noopener">Subhrasankar Chatterjee</a> to fix the issues .
 
 ## Acknowledgement
 
