@@ -58,6 +58,8 @@ If you use this code in your research, we would appreciate a citation to the ori
      }
      
 ## Code Issues
+<p class="lead"><img src="http://personal.strath.ac.uk/jinchang.ren/index_files/new.gif"><b>PhD Scholarship</b><a> A partially funded PhD scholarship to work in image analysis and deep learning with point cloud and other remote sensing data, available now, email for more details!</a> </p>
+	
 
 <span class="color-blue"></span><sup><img style="display:inline" src="https://josaa.nic.in/webinfocms/Images/newicon.gif" alt="" /></sup> <span class="newNews"> You are requested to contact <a href="mailto:subhrasankar.chatterjee000@gmail.com" target="_blank" rel="noopener">Subhrasankar Chatterjee</a> for fix the code issues .
 
