@@ -54,6 +54,9 @@ If you use this code in your research, we would appreciate a citation to the ori
      title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral               Classification},
      author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Bhattacharyya, Siddhartha and Chaudhuri, Bidyut B. and Platosˇ, Jan},
      journal={IEEE Transactions on Geoscience and Remote Sensing},
+     volume = {58},
+     no = {8},
+     pages = { 5277 - 5290},
      year={2020}
      }
      
